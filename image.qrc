@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resource/ai.png</file>
+        <file>resource/background.png</file>
+        <file>resource/background2.png</file>
+        <file>resource/bai.png</file>
+        <file>resource/fanhui.png</file>
+        <file>resource/fupan.png</file>
+        <file>resource/hei.png</file>
+        <file>resource/hui.png</file>
+        <file>resource/kaishi.png</file>
+        <file>resource/kong.png</file>
+        <file>resource/over.mp3</file>
+        <file>resource/projec_zh_CN.ts</file>
+        <file>resource/renshu.png</file>
+        <file>resource/shangyibu.png</file>
+        <file>resource/shezhi.png</file>
+        <file>resource/shuangren.png</file>
+        <file>resource/ti.png</file>
+        <file>resource/tishi.png</file>
+        <file>resource/wei.png</file>
+        <file>resource/weixuan.png</file>
+        <file>resource/xiayibu.png</file>
+        <file>resource/yi.png</file>
+        <file>resource/yixuan.png</file>
+        <file>resource/zailai.png</file>
+        <file>resource/zhujiemina.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+    <qresource prefix="/">
+        <file>resource/begin.png</file>
+        <file>resource/beijing.mp3</file>
+        <file>resource/kun.png</file>
+        <file>resource/lanqiu.png</file>
+        <file>resource/niganma.mp3</file>
+    </qresource>
+</RCC>
